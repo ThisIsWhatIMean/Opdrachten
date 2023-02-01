@@ -1,0 +1,5 @@
+Doel: Ik wil beter worden in JS omdat dit veel wordt gebruikt in de stageplek.
+Inhoud: JS basis beter leren zodat ik kan helpen met opdrachten.
+Leerweg: YT video's bekijken en veel oefenen.
+Tijdpad: Een half jaar.
+Evaluatie: Als ik mijn leerdoel heb behaald kan ik tenminste een basis JS applicatie maken.

@@ -1,0 +1,13 @@
+Wat doe je aan:
+
+Zwarte jeans, nette witte schoenen en een zwarte t-shirt.
+
+Openingstekst:
+
+1. Hallo, mijn naam is Jack
+2. Ik ben Jack Tiebie en ik doe momenteel een studie software developer
+3. Ik ben trots op mijn disipline in het leven.
+4. Ik zou graag JS willen leren.
+5. Fijne dag nog!
+
+
